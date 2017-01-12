@@ -1,6 +1,6 @@
 Christopher Li, INFO 448 Android Dev, 1/11/17
 
-This project is an Android app that displays a couple of simple lines of text about sports teams in Washington.
+This project is an Android app called Hello that displays a couple of simple lines of text about sports teams in Washington.
 
 Github: https://github.com/chrisli8/helloandroid
 
